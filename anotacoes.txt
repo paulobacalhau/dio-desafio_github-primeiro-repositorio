@@ -1,1 +1,5 @@
 Teste de arquivo de anotações.
+https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Configura%C3%A7%C3%A3o-Inicial-do-Git
+git config --list
+git config --global user.name "PauloBacalhau"
+git config --global user.email paulo.bacalhau@gmail.com
